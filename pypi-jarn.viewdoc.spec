@@ -4,7 +4,7 @@
 #
 Name     : pypi-jarn.viewdoc
 Version  : 2.4
-Release  : 31
+Release  : 32
 URL      : https://files.pythonhosted.org/packages/5c/14/fd7f5630254668d58975f191a7a9a20bb7747eead974c864f9597d117ab2/jarn.viewdoc-2.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5c/14/fd7f5630254668d58975f191a7a9a20bb7747eead974c864f9597d117ab2/jarn.viewdoc-2.4.tar.gz
 Summary  : Python documentation viewer
@@ -76,7 +76,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656383614
+export SOURCE_DATE_EPOCH=1656398644
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
