@@ -4,7 +4,7 @@
 #
 Name     : pypi-jarn.viewdoc
 Version  : 2.5
-Release  : 39
+Release  : 40
 URL      : https://files.pythonhosted.org/packages/80/ad/caa507b66133fc023308a9f000e6e7bb93515f40233e4465de66fc3d0238/jarn.viewdoc-2.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/80/ad/caa507b66133fc023308a9f000e6e7bb93515f40233e4465de66fc3d0238/jarn.viewdoc-2.5.tar.gz
 Summary  : Python documentation viewer
